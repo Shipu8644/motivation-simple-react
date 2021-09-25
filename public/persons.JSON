@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Dave Ramsey",
+        "age": 50,
+        "gender": "male",
+        "followers": "942K",
+        "earning": 9500000,
+        "img": "https://virtualspeech.com/img/motivational-speakers/Dave-Ramsey.jpg"
+    },
+    {
+        "name": "Tony Robbins",
+        "age": 35,
+        "gender": "male",
+        "followers": "3.1M ",
+        "earning": 19500000,
+        "img": "https://virtualspeech.com/img/motivational-speakers/tony-robbins.jpg"
+    },
+    {
+        "name": "Nick Vujicic",
+        "age": 35,
+        "gender": "male",
+        "followers": "942K",
+        "earning": 19500000,
+        "img": "https://virtualspeech.com/img/motivational-speakers/nick-vujicic.jpg"
+    },
+    {
+        "name": "Eckhart Tolle",
+        "age": 45,
+        "gender": "male",
+        "followers": "701K",
+        "earning": 18000000,
+        "img": "https://virtualspeech.com/img/motivational-speakers/Eckhart-Tolle.jpg"
+    },
+    {
+        "name": "Louise Hay",
+        "age": 55,
+        "gender": "female",
+        "followers": "372K",
+        "earning": 18500000,
+        "img": "https://virtualspeech.com/img/motivational-speakers/louise-hay.jpg"
+    },
+    {
+        "name": "Chris Gardner",
+        "age": 53,
+        "gender": "male",
+        "followers": "372K",
+        "earning": 18500000,
+        "img": "https://virtualspeech.com/img/motivational-speakers/chris-gardner.jpg"
+    },
+    {
+        "name": "Robert Kiyosaki",
+        "age": 50,
+        "gender": "male",
+        "followers": "1.1M",
+        "earning": 28500000,
+        "img": "https://virtualspeech.com/img/motivational-speakers/Robert-Kiyosaki.jpg"
+    },
+    {
+        "name": "Eric Thomas",
+        "age": 34,
+        "gender": "male",
+        "followers": "435K",
+        "earning": 15500000,
+        "img": "https://virtualspeech.com/img/motivational-speakers/eric-thomas.jpg"
+    },
+    {
+        "name": "Les Brown",
+        "age": 37,
+        "gender": "male",
+        "followers": "131K",
+        "earning": 15500000,
+        "img": "https://virtualspeech.com/img/motivational-speakers/les-brown2.jpg"
+    },
+    {
+        "name": "Suze Orman",
+        "age": 49,
+        "gender": "female",
+        "followers": "1.3M",
+        "earning": 15500020,
+        "img": "https://virtualspeech.com/img/motivational-speakers/Suze-Orman.jpg"
+    },
+    {
+        "name": "Iyanla Vanzant",
+        "age": 47,
+        "gender": "female",
+        "followers": "1.9M",
+        "earning": 25300020,
+        "img": "https://virtualspeech.com/img/motivational-speakers/Iyanla-Vanzant.jpg"
+    },
+    {
+        "name": "Amy Purdy",
+        "age": 35,
+        "gender": "female",
+        "followers": "65K",
+        "earning": 25300020,
+        "img": "https://virtualspeech.com/img/motivational-speakers/Amy-Purdy.jpg"
+    },
+    {
+        "name": "Jack Canfield",
+        "age": 45,
+        "gender": "male",
+        "followers": "1.1m",
+        "earning": 25300020,
+        "img": "https://virtualspeech.com/img/motivational-speakers/Jack-Canfield.jpg"
+    },
+    {
+        "name": "T. Harv Eker",
+        "age": 35,
+        "gender": "male",
+        "followers": "165K",
+        "earning": 15300020,
+        "img": "https://virtualspeech.com/img/motivational-speakers/t-harv-eker.jpg"
+    },
+    {
+        "name": " Darren Hardy",
+        "age": 35,
+        "gender": "male",
+        "followers": "137K",
+        "earning": 15700070,
+        "img": "https://virtualspeech.com/img/motivational-speakers/Darren-Hardy.jpg"
+    }
+]
