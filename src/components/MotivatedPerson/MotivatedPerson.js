@@ -10,7 +10,7 @@ const MotivatedPerson = (props) => {
     return (
         <div className='person'>
             <img className='circular-img' src={img} alt="" />
-            <p style={{ color: 'aquamarine' }}>Name: {name}</p>
+            <p >Name: <strong style={{ color: 'aquamarine' }}>{name}</strong></p>
             <p>Age: {age}</p>
             <p>Gender: {gender}</p>
             <p>Earning: <strong style={{ color: 'aquamarine' }}>${earning}</strong></p>
