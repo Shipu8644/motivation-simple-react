@@ -1,0 +1,25 @@
+.circular-img{
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    margin-top: 5px;
+}
+.person{
+
+    text-align: center;
+    border-radius: 10px;
+    margin-right: 10px;
+    background-color: black;
+    color: white;
+    border: 5px solid goldenrod;
+    padding: 10px;
+}
+.btn-regular{
+    background-color: aquamarine;
+    color: goldenrod;
+    padding: 10px;
+    font-size: large;
+    font-weight: bolder;
+    border-radius: 10px;
+    cursor: pointer;
+}
