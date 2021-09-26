@@ -1,10 +1,10 @@
 .personCart{
-    border:3px solid goldenrod;
+    border:5px solid goldenrod;
     margin-top: 30px;
     margin-left: 10px;
     margin-right: 10px;
     border-radius: 10px;
-    background-color: antiquewhite;
     width: 80%;
     padding: 10px;
+    
 }

@@ -13,6 +13,7 @@
     color: white;
     border: 5px solid goldenrod;
     padding: 10px;
+    height: fit-content;
 }
 .btn-regular{
     background-color: aquamarine;

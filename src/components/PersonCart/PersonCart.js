@@ -8,9 +8,9 @@ const PersonCart = (props) => {
 
     return (
         <div className="personCart">
-            <h2>Persons Added: {personCart.length}</h2>
-            <h3>Total Payable: ${total}</h3>
-            <h3 className>NameList and Image:</h3>
+            <h2 ><i style={{ color: 'red' }}>Persons Added: {personCart.length}</i></h2>
+            <h3>Total Payable: <span style={{ color: 'red' }}>${total}</span></h3>
+            <h3><u>NameList and Image: </u></h3>
             {personCart.map(personinfo => <PersonName
                 key={personinfo.name}
                 personinfo={personinfo}></PersonName>)}
