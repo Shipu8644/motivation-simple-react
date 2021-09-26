@@ -1,4 +1,4 @@
-  The Motivational Minute
+  ##The Motivational Minute
 
 
 <!-- # Getting Started with Create React App
