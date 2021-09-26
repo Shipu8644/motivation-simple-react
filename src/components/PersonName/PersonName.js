@@ -5,6 +5,7 @@ const PersonName = (props) => {
     const { img, name } = props.personinfo;
     return (
         <div style={{ display: 'flex', marginTop: '10px', color: 'red' }}>
+
             <h3> {name}</h3>
             <img style={{ width: '200px', borderRadius: '50%' }} src={img} alt="" />
         </div>
