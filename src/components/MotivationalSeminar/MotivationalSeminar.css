@@ -1,0 +1,4 @@
+.motivational-seminar-container{
+    display: grid;
+    grid-row: 3fr 1fr;
+}
