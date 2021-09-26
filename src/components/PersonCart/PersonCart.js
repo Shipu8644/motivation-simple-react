@@ -10,7 +10,7 @@ const PersonCart = (props) => {
         <div className="personCart">
             <h2 ><i style={{ color: 'aquamarine' }}>Persons Added: <span style={{ color: 'red' }}> {personCart.length}</span></i></h2>
             <h3 style={{ color: 'aquamarine' }}>Total Payable: <span style={{ color: 'red' }}>${total}</span></h3>
-            <h3 style={{ color: 'aquamarine' }}><u>NameList and Image: </u></h3>
+            <h3 style={{ color: 'aquamarine' }}><u>NameList and Images: </u></h3>
             {personCart.map(personinfo => <PersonName
                 key={personinfo.name}
                 personinfo={personinfo}></PersonName>)}
