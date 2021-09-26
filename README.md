@@ -9,9 +9,9 @@ This project was bootstrapped with [Create React App](https://simple-react-motiv
 
 In the project directory, you can run:
 
-# You can take a seminar from a high rated motivational person
-# You can know their information and rating globally given by the people
-# By observing you can select them and take the chance to communicate with them
+### You can take a seminar from a high rated motivational person
+### You can know their information and rating globally given by the people
+### By observing you can select them and take the chance to communicate with them
 
 <!-- ### `npm start`
 
