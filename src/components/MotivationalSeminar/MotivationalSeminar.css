@@ -13,9 +13,10 @@
     margin-bottom: 30px;
 }
 .person-cart-container{
-    background-image: url('https://img.freepik.com/free-vector/white-abstract-background-design_23-2148825582.jpg?size=626&ext=jpg');
+    /* background-image: url('https://img.freepik.com/free-vector/white-abstract-background-design_23-2148825582.jpg?size=626&ext=jpg'); */
+    background-color: #fff;
     margin-right: 10px;
-    border:5px solid goldenrod;
+    border:5px solid #c6d7d1;
     margin-top: 30px;
     margin-bottom: 30px;
     border-radius: 10px;

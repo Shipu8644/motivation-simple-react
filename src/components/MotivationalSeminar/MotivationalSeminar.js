@@ -19,7 +19,7 @@ const MotivationalSeminar = () => {
     }
     return (
         <div>
-            <h1 style={{ textAlign: 'center' }}> <span style={{ color: '#ffbd00' }} > Total Budget: </span> <strong style={{ color: 'aquamarine', fontWeight: 'bolder' }}>500 Million</strong></h1>
+            <h1 style={{ textAlign: 'center' }}> <span style={{ color: '#f8941c' }} > Total Budget: </span> <strong style={{ color: '#375b08', fontWeight: 'bolder' }}>500 Million</strong></h1>
             <div className="motivational-seminar-container">
                 <div className="motivated-person-container">
                     {persons.map(person => <MotivatedPerson

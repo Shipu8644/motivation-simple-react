@@ -6,7 +6,7 @@
   height: 200px;
 }
 .nav{
-background-color: aquamarine;
+background-color: #eeeeee;
 line-height: 40px;
 }
 .nav a{
@@ -15,9 +15,9 @@ line-height: 40px;
     padding: 10px;
     font-weight: 500;
     font-size: large;
-    color: white;
+    color: black;
 }
 .nav a:hover{
-    background-color: gray;
+    background-color: rgba(128, 128, 128, 0.137);
     color: black;
 }
