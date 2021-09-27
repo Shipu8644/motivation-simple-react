@@ -1,0 +1,7 @@
+.person-name{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    text-align: center;
+    grid-column-gap: 5px;
+    margin-top: 10px;
+}
