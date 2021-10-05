@@ -9,7 +9,7 @@ const PersonName = (props) => {
     const element = <FontAwesomeIcon icon={faWindowClose} />
     return (
         <div className='person-name'>
-            <h1 onClick={() => props.closeHandler(props.personinfo)}
+            <h1
                 style={{ color: 'red', cursor: 'pointer' }}>{element}</h1>
             <h3 style={{ marginLeft: '5px', marginRight: '5px' }}> {name}</h3>
             <img style={{ width: '200px', borderRadius: '50%' }} src={img} alt="" />

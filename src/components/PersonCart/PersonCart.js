@@ -7,20 +7,7 @@ const PersonCart = (props) => {
     const element = <FontAwesomeIcon icon={faUser} />
 
     const { personCart } = props;
-    const [existingCart, setExistingCart] = useState([]);
 
-    useEffect(() => {
-
-        setExistingCart(personCart);
-
-    }, [personCart])
-
-    console.log(existingCart);
-    const closeHandler = (person) => {
-        const existCart = existingCart.filter(p => p.name !== person.name);
-        setExistingCart(existCart);
-    }
-    // console.log(existingCart);
 
     const total = personCart.reduce((a, b) => a + b.earning, 0);
 
@@ -33,10 +20,10 @@ const PersonCart = (props) => {
             <h3 style={{ color: '#375b08' }}> <strong>Total Payable: </strong> <span style={{ color: 'red' }}>${total}</span></h3>
 
             <h3 style={{ color: '#375b08' }}><u>NameList and Images: </u></h3>
-            {existingCart.map(personinfo => <PersonName
+            {personCart.map(personinfo => <PersonName
                 key={personinfo.name}
                 personinfo={personinfo}
-                closeHandler={closeHandler}
+
             ></PersonName>)}
         </div>
     );
